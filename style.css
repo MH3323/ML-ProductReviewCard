@@ -94,6 +94,11 @@
   margin-right: 10px;
 }
 
+.add-button:hover {
+  cursor: pointer;
+  background-color: hsl(158, 47%, 23%);
+}
+
 @media screen and (max-width: 640px) {
   .container {
     flex-direction: column;
